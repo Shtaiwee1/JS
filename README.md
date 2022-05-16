@@ -10,7 +10,7 @@ The logic calculates for three possibilities X's win, O's Win, and Draw!
 A game designed mainly using javascript to implement DOM manipulation
 
 
-![My Image](https://github.com/Shtaiwee1/JS/blob/master/Classic_Tic_Tac_toe/Guess.PNG)
+![My Image](https://github.com/Shtaiwee1/JS/blob/master/GuessTheNumber/Guess.PNG)
 
 
 
